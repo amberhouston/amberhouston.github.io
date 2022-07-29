@@ -1,9 +1,6 @@
 body{
-    font-size: 12px;
+    font-size: 14px;
     background-color: #FBF6F3;
-}
-li{
-    margin-bottom: .75rem;
 }
 
 .hero {
@@ -37,6 +34,12 @@ Blue Gray: #5D6C89 ;*/
     font-weight: bold;
 }
 
-.skills {
-    
+.experience li{
+    margin-bottom: .75rem;
 }
+
+.skills ul{
+text-align: left;
+}
+
+/**/
