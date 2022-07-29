@@ -15,6 +15,10 @@ li{
     color: #36D6E7;
 }
 
+.hero h2{
+    color: #FEB06A;
+}
+
 /*color palette reference 
 Cream: #FBF6F3 ; 
 Tangerine: #FEB06A ; 
@@ -26,12 +30,13 @@ Blue Gray: #5D6C89 ;*/
     font-weight: bold;
 }
 
-.experience{
-    padding: 0 0 1rem;
-}
 
 .experience h4{
     font-size: 1rem;
     color: #5D6C89;
     font-weight: bold;
+}
+
+.skills {
+    
 }
