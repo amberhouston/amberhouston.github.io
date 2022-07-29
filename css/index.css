@@ -1,19 +1,37 @@
 body{
     font-size: 12px;
+    background-color: #FBF6F3;
 }
 li{
     margin-bottom: .75rem;
 }
 
-.hero h1{
-    font-size: 3.5rem;
+.hero {
+    background-color: #5D6C89 !important;
 }
 
+.hero h1{
+    font-size: 3.5rem;
+    color: #36D6E7;
+}
+
+/*color palette reference 
+Cream: #FBF6F3 ; 
+Tangerine: #FEB06A ; 
+Turquoise: #36D6E7 ; 
+Blue Gray: #5D6C89 ;*/
 .sectionheader h3{
-    font-size: .6rem;
-    color: cyan;
+    font-size: 1rem;
+    color: #36D6E7;
+    font-weight: bold;
 }
 
 .experience{
     padding: 0 0 1rem;
+}
+
+.experience h4{
+    font-size: 1rem;
+    color: #5D6C89;
+    font-weight: bold;
 }
