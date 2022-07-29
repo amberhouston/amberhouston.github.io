@@ -1,5 +1,8 @@
+body{
+    font-size: 12px;
+}
 li{
-    margin-bottom: 1rem;
+    margin-bottom: .75rem;
 }
 
 .hero h1{
@@ -7,6 +10,10 @@ li{
 }
 
 .sectionheader h3{
-    font-size: .7rem;
-    font-color: cyan;
+    font-size: .6rem;
+    color: cyan;
+}
+
+.experience{
+    padding: 0 0 1rem;
 }
